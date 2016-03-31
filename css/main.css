@@ -1,0 +1,11 @@
+body {
+  background: url(../img/ocean.jpg);
+  background-size: auto;
+  font-family: 'Droid Sans', sans-serif;
+  color: orange;
+}
+
+p {
+  padding: 4px;
+  margin-left: 10px;
+}
